@@ -1,0 +1,8 @@
+﻿  KelimeOyunu.cpp
+C:\Projects\KelimeOyunu\KelimeOyunu.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Projects\KelimeOyunu\KelimeOyunu.cpp(57,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\KelimeOyunu\KelimeOyunu.cpp(73,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\KelimeOyunu\KelimeOyunu.cpp(77,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\KelimeOyunu\KelimeOyunu.cpp(110,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\KelimeOyunu\KelimeOyunu.cpp(115,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  KelimeOyunu.vcxproj -> C:\Projects\KelimeOyunu\x64\Debug\KelimeOyunu.exe
